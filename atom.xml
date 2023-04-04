@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://krau.top/</id>
+    <title>柯罗krau的博客 | krau's blog</title>
+    <updated>2023-04-04T01:29:42.092Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>柯罗krau</name>
+        <email>i@valaxy.site</email>
+        <uri>https://valaxy.site</uri>
+    </author>
+    <link rel="alternate" href="https://krau.top/"/>
+    <link rel="self" href="https://krau.top/feed.atom"/>
+    <subtitle>年轻，就要折腾</subtitle>
+    <logo>https://krau.top/photo/avatar/avatar.jpg</logo>
+    <icon>https://krau.top/favicon.svg</icon>
+    <rights>CC BY-NC-SA 4.0 2023 © 柯罗krau</rights>
+    <entry>
+        <title type="html"><![CDATA[关于hexo每次上传github后都会显示404的解决方法]]></title>
+        <id>https://krau.top/posts/about-hexo404</id>
+        <link href="https://krau.top/posts/about-hexo404"/>
+        <updated>2020-03-10T09:30:00.000Z</updated>
+        <content type="html"><![CDATA[<p>在博客目录的\source中，新建一个名为CNAME的文本文件，用记事本打开并填入你的域名，保存退出，然后删除文件后缀名即可。此时再使用</p>
+<p><code>hexo clean &amp;&amp; hexo g -d</code></p>
+<p>测试</p>
+]]></content>
+        <author>
+            <name>柯罗krau</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-04-04T01:28:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为 valaxy 博客 yun 主题添加 artitalk 说说页面]]></title>
+        <id>https://krau.top/posts/add-artitalk-for-valaxy-yun</id>
+        <link href="https://krau.top/posts/add-artitalk-for-valaxy-yun"/>
+        <updated>2023-01-20T00:53:46.000Z</updated>
+        <content type="html"><![CDATA[<h2>Artitalk</h2>
+<p><a href="https://artitalk.js.org/">Artitalk</a> 是一个基于 Leancloud 的简单说说 js，具体参见官方文档。</p>
+<p>我成功将它接入了我的博客，[</p>
+]]></content>
+        <author>
+            <name>柯罗krau</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-04-04T01:28:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[动画电影 HELLO WORLD]]></title>
+        <id>https://krau.top/posts/anime-helloworld</id>
+        <link href="https://krau.top/posts/anime-helloworld"/>
+        <updated>2020-04-24T17:26:29.000Z</updated>
+        <content type="html"><![CDATA[<h2>one</h2>
+<p><img src="https://cdn.jsdelivr.net/gh/voidoath/photo/blog-img/20200424173731.jpg" alt=""></p>
+<p>![](<a href="https://cd">https://cd</a></p>
+]]></content>
+        <author>
+            <name>柯罗krau</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-04-04T01:28:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[声之形]]></title>
+        <id>https://krau.top/posts/anime-the-shape-of-voice</id>
+        <link href="https://krau.top/posts/anime-the-shape-of-voice"/>
+        <updated>2020-07-05T22:24:18.000Z</updated>
+        <content type="html"><![CDATA[<h1>The shape of voice</h1>
+]]></content>
+        <author>
+            <name>柯罗krau</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-04-04T01:28:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[博客一周年！]]></title>
+        <id>https://krau.top/posts/anniversary1</id>
+        <link href="https://krau.top/posts/anniversary1"/>
+        <updated>2021-03-12T23:32:44.000Z</updated>
+        <content type="html"><![CDATA[<p>本博客自2020.3.9建站以来已经一年啦</p>
+<p>截止目前，总浏览量11682次，访客4291人（数据来源：busuanzi）</p>
+<p>感谢各位朋友的支持</p>
+]]></content>
+        <author>
+            <name>柯罗krau</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-04-04T01:28:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[过度信任开源的惨案？Edxposed Manager canary版本中被推送恶意代码]]></title>
+        <id>https://krau.top/posts/edxp-massacre</id>
+        <link href="https://krau.top/posts/edxp-massacre"/>
+        <updated>2020-05-17T06:31:45.000Z</updated>
+        <content type="html"><![CDATA[<p>2020.5.16，几个github账号向xposed模块管理器<code>Edxposed Manager</code>pr了恶意代码（<code>rm -rf /data/media</code>），在合并之前的代码会自动编译以供审核，而</p>
+]]></content>
+        <author>
+            <name>柯罗krau</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-04-04T01:28:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[freda-一个多种自定义的电子书阅读器]]></title>
+        <id>https://krau.top/posts/freda-recommend</id>
+        <link href="https://krau.top/posts/freda-recommend"/>
+        <updated>2020-04-16T20:36:14.000Z</updated>
+        <content type="html"><![CDATA[<h1>freda</h1>
+<h2>简评</h2>
+<p>这是一个可本地和在线的电子书阅读器，支持各种常见的电子书/文档格式，几乎免费，除了首页底部有一条横幅广告需要付费去除外，还未发现任何需要付费的功能</p>
+<h2>安装</h2>
+<p>f</p>
+]]></content>
+        <author>
+            <name>柯罗krau</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-04-04T01:28:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[简单汇总下那些推过的galgame（持续更新）]]></title>
+        <id>https://krau.top/posts/gal-collection</id>
+        <link href="https://krau.top/posts/gal-collection"/>
+        <updated>2020-07-06T21:12:31.000Z</updated>
+        <author>
+            <name>柯罗krau</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-04-04T01:28:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021新年快乐!]]></title>
+        <id>https://krau.top/posts/happynewyear2021</id>
+        <link href="https://krau.top/posts/happynewyear2021"/>
+        <updated>2021-02-12T20:18:30.000Z</updated>
+        <content type="html"><![CDATA[<p>先祝 春风送暖 福临天地 祉佑玄黄</p>
+<p>再祝 松龄父老 九如天宝 万寿无疆</p>
+<p>三祝 文人书客 玉润珠圆 神融笔畅</p>
+<p>四祝 士工商旅 鹏程万里 骏业辉煌</p>
+<p>五祝 怀喜佳人 石麟天赐 明珠入掌</p>
+<p>六祝 天</p>
+]]></content>
+        <author>
+            <name>柯罗krau</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-04-04T01:28:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[hexo设备迁移]]></title>
+        <id>https://krau.top/posts/hexo-devices-migrate</id>
+        <link href="https://krau.top/posts/hexo-devices-migrate"/>
+        <updated>2020-07-15T11:06:26.000Z</updated>
+        <author>
+            <name>柯罗krau</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-04-04T01:28:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[将 hexo 博客迁移至 valaxy]]></title>
+        <id>https://krau.top/posts/hexo-migrate-to-valaxy</id>
+        <link href="https://krau.top/posts/hexo-migrate-to-valaxy"/>
+        <updated>2023-01-16T09:56:55.000Z</updated>
+        <content type="html"><![CDATA[<p>::: warning 注意<br>
+本文章作于 valaxy 版本 0.12.2 , 部分内容可能已经过时 , 请结合<a href="https://valaxy.site/guide/getting-started">官方文档</a>一起阅读<br>
+:::</p>
+<h2>前言</h2>
+<p>在 2022 年 8 月份，我向<a href="https://github.com/YunYouJun">云游君</a>的 hexo 主题 <a href="https://github.com/YunYouJun/hexo-theme-yun">hexo-theme-yun</a> 提 issue 的时候，他向我提到了 <a href="https://valaxy.site/">valaxy</a> 这个由他开发的静态博客框架。当时 valaxy 十分先进的技术栈和一些优良特性一下就吸引了我，但是由于我已经使用 hexo 写了很多文章，且 valaxy 也没有迁移文档/工具，所以那时我并没有迁移。</p>
+<p>时隔半年，我再去看 valaxy 的时候，它已经基本可用了，文档虽然还是不完整，但是够用。于是我决定将我的 hexo 博客迁移至 valaxy。<s>hexo 这贼船越早下越好</s></p>
+]]></content>
+        <author>
+            <name>柯罗krau</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-04-04T01:28:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[简单明了理解alpha通道]]></title>
+        <id>https://krau.top/posts/know-alpha-channel</id>
+        <link href="https://krau.top/posts/know-alpha-channel"/>
+        <updated>2020-03-15T21:33:00.000Z</updated>
+        <content type="html"><![CDATA[<h3>前言</h3>
+<p><strong>Alpha通道</strong>在计算机图形学中是一个常见术语，在Ps，Ae等动画创作类软件中常有身影，那么它究竟为何物？</p>
+<p>身为非专业人士不需要特别深入了解，但需要知道它的基本概念和应用</p>
+]]></content>
+        <author>
+            <name>柯罗krau</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-04-04T01:28:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[逻辑门电路在Minecraft中的应用]]></title>
+        <id>https://krau.top/posts/logic-gate-in-mc</id>
+        <link href="https://krau.top/posts/logic-gate-in-mc"/>
+        <updated>2020-03-20T08:30:05.000Z</updated>
+        <content type="html"><![CDATA[<h2>逻辑门简述</h2>
+<p><strong>逻辑门</strong>是集成电路的基本组件，通过控制元件的高低电平的组合来进行二进制逻辑运算。其中高电平（有信号）代表 1 （true） ，低电平代表 0 （false）</p>
+<h2>基本逻</h2>
+]]></content>
+        <author>
+            <name>柯罗krau</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-04-04T01:28:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mc生存日记之从开服到炸图]]></title>
+        <id>https://krau.top/posts/mc-survival-boom</id>
+        <link href="https://krau.top/posts/mc-survival-boom"/>
+        <updated>2020-04-03T17:23:28.000Z</updated>
+        <content type="html"><![CDATA[<h1>前因</h1>
+<p>话说某个沙雕群的普通上午，突然这时</p>
+<p><img src="https://s1.ax1x.com/2020/04/03/GaTiAP.png" alt="GaTiAP.png"></p>
+<p>于是乎</p>
+<p>![<a href="http://GaTFtf.pn">GaTFtf.pn</a></p>
+]]></content>
+        <author>
+            <name>柯罗krau</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-04-04T01:28:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ray-mmd渲染基本流程]]></title>
+        <id>https://krau.top/posts/mmdray-basic-rendering</id>
+        <link href="https://krau.top/posts/mmdray-basic-rendering"/>
+        <updated>2020-07-17T16:48:46.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://pic.downk.cc/item/5f119a0214195aa59417256d.png" alt=""></p>
+]]></content>
+        <author>
+            <name>柯罗krau</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-04-04T01:28:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ray-mmd制作法线贴图]]></title>
+        <id>https://krau.top/posts/mmdray-normal-map</id>
+        <link href="https://krau.top/posts/mmdray-normal-map"/>
+        <updated>2021-08-13T08:59:08.000Z</updated>
+        <content type="html"><![CDATA[<p>如何使材质贴图更有层次感？</p>
+<p>这就需要制作相应的<a href="https://zh.wikipedia.org/wiki/%E6%B3%95%E7%BA%BF%E8%B4%B4%E5%9B%BE">法线贴图</a><br>
+本文以YYB式初音未来为例，制作相应的法线贴图，使用ray渲染的版本为1.5.2</p>
+]]></content>
+        <author>
+            <name>柯罗krau</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-04-04T01:28:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MMD中导出带alpha通道视频的方法]]></title>
+        <id>https://krau.top/posts/mmdray-output-videos-with-alpha</id>
+        <link href="https://krau.top/posts/mmdray-output-videos-with-alpha"/>
+        <updated>2020-04-07T20:33:29.000Z</updated>
+        <content type="html"><![CDATA[<h1>前言</h1>
+<p>闲来无事在摸MMD，然后看到了这个</p>
+<p>[【PV背景配布/动作配布】九尾三妈式初音 - お気に召すまま<br>
+](<a href="https://www.bilibili.com/video/BV1r741">https://www.bilibili.com/video/BV1r741</a></p>
+]]></content>
+        <author>
+            <name>柯罗krau</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-04-04T01:28:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ray-mmd内置天空盒调整参数简介]]></title>
+        <id>https://krau.top/posts/mmdray-skyboxs</id>
+        <link href="https://krau.top/posts/mmdray-skyboxs"/>
+        <updated>2021-08-12T19:57:39.000Z</updated>
+        <content type="html"><![CDATA[<p>完成ray渲染的基本流程后，就要开始调各种参数了，本篇介绍ray渲染内置的几个天空盒的参数<br>
+![内置天空盒](<a href="https://cdn.jsdelivr.net/gh/voidoath/photo/b">https://cdn.jsdelivr.net/gh/voidoath/photo/b</a></p>
+]]></content>
+        <author>
+            <name>柯罗krau</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-04-04T01:28:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自用MMEffect效果整理]]></title>
+        <id>https://krau.top/posts/mme-collect</id>
+        <link href="https://krau.top/posts/mme-collect"/>
+        <updated>2021-06-25T13:38:21.000Z</updated>
+        <content type="html"><![CDATA[<h1>A</h1>
+<ul>
+<li>AlternativeFull —— 可以生成一个FX，该FX可以控制模型上的光和影的明暗，并且可以添加高光、控制阴影颜色、使用法线贴图、边缘描绘等，用此可制作2d化效果 —— [配布</li>
+</ul>
+]]></content>
+        <author>
+            <name>柯罗krau</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-04-04T01:28:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[将旧手机通过Linuxdeploy改造为linux服务器|搭建cloudreve个人网盘|实现离线下载]]></title>
+        <id>https://krau.top/posts/old-phone-become-server</id>
+        <link href="https://krau.top/posts/old-phone-become-server"/>
+        <updated>2022-01-24T19:34:31.000Z</updated>
+        <content type="html"><![CDATA[<p>最近因疫情闲在家，就折腾起了自己的旧手机</p>
+]]></content>
+        <author>
+            <name>柯罗krau</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-04-04T01:28:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ps常用操作及快捷键]]></title>
+        <id>https://krau.top/posts/ps-common-operate-and-hotkey</id>
+        <link href="https://krau.top/posts/ps-common-operate-and-hotkey"/>
+        <updated>2020-04-04T09:12:45.000Z</updated>
+        <content type="html"><![CDATA[<h2>快捷键</h2>
+<h3>工具快捷键</h3>
+<table>
+<thead>
+<tr>
+<th>工具</th>
+<th>快捷键</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>移动</td>
+<td>V</td>
+</tr>
+</tbody>
+</table>
+]]></content>
+        <author>
+            <name>柯罗krau</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-04-04T01:28:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2020年终总结]]></title>
+        <id>https://krau.top/posts/summary-2020</id>
+        <link href="https://krau.top/posts/summary-2020"/>
+        <updated>2020-12-31T20:56:08.000Z</updated>
+        <content type="html"><![CDATA[<p>一年年来去匆匆，往事皆是云烟过眼，不做总结似乎像是虚度了一年时间。但想要写下的东西又太多，总结就不知不觉写成了流水账。</p>
+]]></content>
+        <author>
+            <name>柯罗krau</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-04-04T01:28:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[某个无聊的人对井字棋的思考]]></title>
+        <id>https://krau.top/posts/tic-tac-toe</id>
+        <link href="https://krau.top/posts/tic-tac-toe"/>
+        <updated>2020-05-17T17:12:04.000Z</updated>
+        <content type="html"><![CDATA[<p>某个不务正业的咸鱼高中生在午休时和自己下井字棋...然后突然想到一个问题</p>
+<p>众所周知，井字棋一般来说都是先下的人（下正中间）容易赢，那么，作为后手，如何最大化自己的胜率？</p>
+<p>为了探究这个问题，我和先</p>
+]]></content>
+        <author>
+            <name>柯罗krau</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-04-04T01:28:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用ShareX和Markdown Image自动压缩截图为WebP格式并一键插入Markdown文档]]></title>
+        <id>https://krau.top/posts/use-sharex-and-mdimage-for-efficiency</id>
+        <link href="https://krau.top/posts/use-sharex-and-mdimage-for-efficiency"/>
+        <updated>2023-01-16T18:04:11.000Z</updated>
+        <content type="html"><![CDATA[<p>之前我曾安利过 <a href="http://localhost:4859/posts/pasteimage-in-vs">PasteImage</a> 这个插件，用 VSCode 写博客/文档的时候，用它可以很快捷地在md文档中插入图片。</p>
+<p>受某个友人影响，我也开始尝试 <s>拥抱 webp</s>了，近期的文章内的图片都已经压缩成了 webp 格式。但是 PasteImage 却不支持 webp 格式，于是我又想办法整出了今天这个解决方案，实现完全自动化的 压缩+插入图片。</p>
+]]></content>
+        <author>
+            <name>柯罗krau</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-04-04T01:28:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JWT 认证及其在 FastAPI 中的使用]]></title>
+        <id>https://krau.top/posts/fastapi-jwt</id>
+        <link href="https://krau.top/posts/fastapi-jwt"/>
+        <updated>2023-03-22T10:59:53.000Z</updated>
+        <content type="html"><![CDATA[<h2>什么是 JWT</h2>
+<p>JWT: JSON Web Tokens,它是一种将 JSON 对象编码为没有空格，且难以理解的长字符串的标准。在具体上,它就是一段字符串,下面就是 FastAPI 文档中给出的例子</p>
+<pre><code class="language-txt">eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c
+</code></pre>
+<p>抽象地把它看成是这样的</p>
+<pre><code class="language-txt">aaaaaaaaaaaa.bbbbbbbbbbbb.cccccccccccc
+</code></pre>
+]]></content>
+        <author>
+            <name>柯罗krau</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-03-22T10:59:53.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FastAPI dependency injection system]]></title>
+        <id>https://krau.top/posts/fastapi-dependency-injection</id>
+        <link href="https://krau.top/posts/fastapi-dependency-injection"/>
+        <updated>2023-03-15T13:30:34.000Z</updated>
+        <content type="html"><![CDATA[<h2>什么是「依赖注入」 {lang=&quot;zh-CN&quot;}</h2>
+<h2>What is &quot;Dependency Injection&quot; {lang=&quot;en&quot;}</h2>
+<p>::: zh-CN</p>
+<blockquote>
+<p>编程中的「依赖注入」是声明代码（本文中为路径操作函数 ）运行所需的，或要使用的「依赖」的一种方式。</p>
+<p>然后，由系统（本文中为 FastAPI）负责执行任意需要的逻辑，为代码提供这些依赖（「注入」依赖项）。</p>
+<p>依赖注入常用于以下场景：</p>
+<ul>
+<li>共享业务逻辑（复用相同的代码逻辑）</li>
+<li>共享数据库连接</li>
+<li>实现安全、验证、角色权限等……</li>
+</ul>
+<p>上述场景均可以使用依赖注入，将代码重复最小化。<br>
+:::</p>
+</blockquote>
+<p>::: en</p>
+<blockquote>
+<p>&quot;Dependency Injection&quot; means, in programming, that there is a way for your code (in this case, your path operation functions) to declare things that it requires to work and use: &quot;dependencies&quot;.</p>
+<p>And then, that system (in this case FastAPI) will take care of doing whatever is needed to provide your code with those needed dependencies (&quot;inject&quot; the dependencies).</p>
+<p>This is very useful when you need to:</p>
+<ul>
+<li>Have shared logic (the same code logic again and again).</li>
+<li>Share database connections.</li>
+<li>Enforce security, authentication, role requirements, etc.</li>
+<li>And many other things...</li>
+</ul>
+<p>All these, while minimizing code repetition.<br>
+:::</p>
+</blockquote>
+]]></content>
+        <author>
+            <name>柯罗krau</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-03-15T13:30:34.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用官方脚本一键安装docker|安装docker-compose]]></title>
+        <id>https://krau.top/posts/install-docker-one-key</id>
+        <link href="https://krau.top/posts/install-docker-one-key"/>
+        <updated>2022-04-20T14:29:38.000Z</updated>
+        <content type="html"><![CDATA[<h2>安装docker</h2>
+<p>docker官方提供了傻瓜式安装脚本，为你做好所有工作，免去了手动安装的繁琐。</p>
+<p>本文实测系统环境：debian11</p>
+<p>执行以下命令</p>
+<p>::: tip 2023-03-07更新</p>
+<p>不知道从什么时候开始官方脚本已经默认也安装了 <code>docker compose</code>,不需要后面的手动安装了</p>
+<p>注意是 <code>docker compose</code> 而不是 <code>docker-compose</code>. 执行命令时候也没有这个杠</p>
+<p>:::</p>
+<pre><code class="language-shell">curl -fsSL https://get.docker.com | bash -s docker
+</code></pre>
+]]></content>
+        <author>
+            <name>柯罗krau</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-03-07T09:29:38.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用Python写一个Telegram bot吧|Telegram bot教程]]></title>
+        <id>https://krau.top/posts/tg-bot-dev-note-kmua</id>
+        <link href="https://krau.top/posts/tg-bot-dev-note-kmua"/>
+        <updated>2022-12-20T10:22:19.000Z</updated>
+        <content type="html"><![CDATA[<h2>前言</h2>
+<p><s>为了激发群友们水群的积极性，</s> 为了学习和应用 python 知识，我最近在开发一个 telegram 的 bot，所以写这篇文章以记录和分享</p>
+<p>在这篇文章中，将使用 <a href="https://docs.python-telegram-bot.org">Python-Telegram-Bot</a> 最新版库，基于 Python 的新版异步特性与 Telegram 友好开放的 API，开发一个兼顾实用性和趣味的 bot ，并使用 Docker 在任何地方部署 bot</p>
+<p>我写的 bot 的 GitHub 仓库: <a href="https://github.com/krau/kmua-bot">kmua-bot</a>，欢迎大佬批评。</p>
+<p>本文不是从零开始的教程，阅读本文前，你需要具有一点点(真的很少一点)的 python 或其他语言编程的基础。</p>
+]]></content>
+        <author>
+            <name>柯罗krau</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-02-21T16:13:19.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ArchLinux on Y9000P2022十分好用,就是有点难用]]></title>
+        <id>https://krau.top/posts/archlinux-on-y9kp22-1</id>
+        <link href="https://krau.top/posts/archlinux-on-y9kp22-1"/>
+        <updated>2023-02-20T21:51:21.000Z</updated>
+        <content type="html"><![CDATA[<p>受不了啦，给笔记本装上 Arch 折磨自己！</p>
+]]></content>
+        <author>
+            <name>柯罗krau</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-02-20T21:51:21.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT简单使用体验|你的下一个Google，何必是搜索引擎]]></title>
+        <id>https://krau.top/posts/ChatGPT-simple-exp</id>
+        <link href="https://krau.top/posts/ChatGPT-simple-exp"/>
+        <updated>2022-12-05T20:47:50.000Z</updated>
+        <content type="html"><![CDATA[<p>最近openai整的<a href="https://chat.openai.com/chat">ChatGPT</a>有点小火，看了官方和民间的一些截图之后，感觉这东西确实有点意思，所以就想办法注册了个号来体验体验。</p>
+]]></content>
+        <author>
+            <name>柯罗krau</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2022-12-05T20:47:50.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用Kotodama更优雅地管理waline评论系统后台]]></title>
+        <id>https://krau.top/posts/kotodama</id>
+        <link href="https://krau.top/posts/kotodama"/>
+        <updated>2022-11-13T12:37:28.000Z</updated>
+        <content type="html"><![CDATA[<p>不少博主已经在用waline作为评论系统了吧，但是众所周知，waline的后台管理属实不能说是好用。无论是界面构建还是交互设计都有点复古陈旧的感觉。</p>
+<p>还好有<a href="https://github.com/YunYouJun">云游君</a>开发了<a href="https://github.com/YunYouJun/kotodama">kotadama</a>，适配了waline的后端管理。用它作为waline的后端管理再好不过。</p>
+<p>要使用kotadama，直接打开网址登录使用即可：<a href="https://kotodama.vercel.app">https://kotodama.vercel.app</a></p>
+]]></content>
+        <author>
+            <name>柯罗krau</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2022-11-13T12:37:28.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python3快速入门——列表、元组、字典、条件、循环、输入、函数]]></title>
+        <id>https://krau.top/posts/py3-quick-basic</id>
+        <link href="https://krau.top/posts/py3-quick-basic"/>
+        <updated>2022-10-30T18:29:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>前言</h2>
+<p>我接触python时间已经不短了，但学习中一直是零零散散，先有想法，再去学习对应的知识（比如爬虫），所以知识掌握得很不成系统。近来准备把python系统性地学一遍，于是有了此文，既作为自己学习的备忘笔记，也希望能帮助其他具有一点基础的人快速入门python。</p>
+<p>在GitHub上我还建了个仓库：<a href="https://github.com/krau/py-learn">Py-learn</a>，在那里有代码源文件。</p>
+]]></content>
+        <author>
+            <name>柯罗krau</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2022-10-30T18:29:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【白话文】如何加入一个zerotier网络|当腐竹因为移动不给ipv4公网而要求玩家用zerotier组网时...]]></title>
+        <id>https://krau.top/posts/zerotier-client</id>
+        <link href="https://krau.top/posts/zerotier-client"/>
+        <updated>2022-08-21T09:45:30.000Z</updated>
+        <content type="html"><![CDATA[<p>最近把自家宽带从联通转战移动，然而移动不给公网ipv4，导致我mc服的铸币玩家们无法连接服务器，于是决定用zerotier组建网络，一举多得.<br>
+此文写给小白，只用白话文介绍如何加入一个zerotier网络。</p>
+]]></content>
+        <author>
+            <name>柯罗krau</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2022-08-21T09:45:30.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在vscode里直接粘贴图片——pasteimage|vs写博客利器]]></title>
+        <id>https://krau.top/posts/pasteimage-in-vs</id>
+        <link href="https://krau.top/posts/pasteimage-in-vs"/>
+        <updated>2022-07-07T09:16:30.000Z</updated>
+        <content type="html"><![CDATA[<h2>前言</h2>
+<p>使用vscode写博客，要想便捷快速地在文章中插入图片，比较常见的一个做法是通过picgo+图床实现快捷键上传图片，并生成markdown格式的链接。图床常常是利用jsdelivr加速github仓库的方式搭建。<br>
+我原本也一直是这样做的，但自从jsdelivr在国内不可用之后，（再者，jsdelivr的使用规范也不允许作为图床使用）我换用了另一种方案，即本文所写，通过vs的pasteimage插件直接把图片粘贴在文章内，并保存在博客目录内。</p>
+]]></content>
+        <author>
+            <name>柯罗krau</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2022-07-07T09:16:30.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自己动手制作网线水晶头（接网线）]]></title>
+        <id>https://krau.top/posts/make-cable</id>
+        <link href="https://krau.top/posts/make-cable"/>
+        <updated>2022-06-20T22:26:35.000Z</updated>
+        <content type="html"><![CDATA[<p>我最近买了一台二手主机当nas用，但是由于我家的布局设置，必须要把这台主机放置在离路由器较远的一个位置。所以我直接买了根超长网线（指30m）以防长度不够，但是到手之后发现，我严重高估了我所需的长度，于是把这根长网线剪去一大段，并去学会了接网线水晶头的操作。</p>
+]]></content>
+        <author>
+            <name>柯罗krau</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2022-06-20T22:26:35.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minecraft开服入门]]></title>
+        <id>https://krau.top/posts/mc-host-server</id>
+        <link href="https://krau.top/posts/mc-host-server"/>
+        <updated>2022-06-20T10:00:38.000Z</updated>
+        <content type="html"><![CDATA[<p>想和基友们联机玩mc，相比于使用各种联机平台，或搭建虚拟局域网，不如自己直接开个服务器。既不用保持至少一人在线，又能避免玩游戏时需要额外运行一个联机程序的臃肿。</p>
+<p>本文记录博主自己的mc开服经历。</p>
+]]></content>
+        <author>
+            <name>柯罗krau</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2022-06-20T10:00:38.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用ACME脚本申请并配置SSL证书]]></title>
+        <id>https://krau.top/posts/acmessl</id>
+        <link href="https://krau.top/posts/acmessl"/>
+        <updated>2022-04-22T16:48:01.000Z</updated>
+        <content type="html"><![CDATA[<h2>前言|为什么选择ACME方法</h2>
+<p>要想通过TLS/https协议访问自己域名下的服务，就必须申请SSL证书。宝塔面板提供了简单快捷的方法一键申请，但终究不是良好的解决方案。一来宝塔过于臃肿，二来其需要手机实名验证。使用各大云服务商提供的【免费证书】则还需要登录网页、申请、导入证书，未免操作繁琐。更何况这些云服务商提供的ssl证书只能给你很少的自由选择性。</p>
+<p>而ACME则很好地解决了这些问题。</p>
+]]></content>
+        <author>
+            <name>柯罗krau</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2022-04-22T16:48:01.000Z</published>
+    </entry>
+</feed>
