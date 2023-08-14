@@ -1,0 +1,1 @@
+import{useTwikooWithOptions as o}from"valaxy-addon-twikoo";import"valaxy-addon-twikoo/client/styles/index.scss";import{g as t,o as e,i as n}from"./app-fec6569f.js";const i={id:"tcomment",w:"full"},a=t({__name:"YunTwikoo",setup(r){return o(),(s,m)=>(e(),n("div",i))}});export{a as default};
