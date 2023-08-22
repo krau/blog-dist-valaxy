@@ -1,0 +1,1 @@
+import{g as o,ar as e,o as n,j as t,as as a}from"./app-4671fe10.js";const s={id:"tcomment",w:"full"},_=o({__name:"YunTwikoo",setup(d){return e(a)||(void 0)(),(i,c)=>(n(),t("div",s))}});export{_ as default};
