@@ -1,0 +1,1 @@
+import{h as a,i as s,a as n,j as r,o as c,k as p}from"./app-B-ElfUmG.js";import{b as t}from"./route-block-B_A1xBdJ.js";const u=a({__name:"[...path]",setup(i){const o=s(),e=n();return r(()=>{e.path!=="/"&&e.path.endsWith("/")&&o.replace(e.path.slice(0,-1))}),(f,m)=>(c(),p("div"))}});typeof t=="function"&&t(u);export{u as default};
